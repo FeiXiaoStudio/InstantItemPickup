@@ -1,0 +1,56 @@
+{
+  "repo_name": "InstantItemPickup",
+  "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\InstantItemPickup",
+  "source_paths": [
+    "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1"
+  ],
+  "existing_git_paths": [],
+  "exclusions": [
+    {
+      "path": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v1.1.0.zip",
+      "reason": "依赖/分发二进制、压缩包、Git/IDE/缓存/临时文件"
+    },
+    {
+      "path": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v应该是睡醒了.zip",
+      "reason": "依赖/分发二进制、压缩包、Git/IDE/缓存/临时文件"
+    },
+    {
+      "path": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v现在真的睡醒了.zip",
+      "reason": "依赖/分发二进制、压缩包、Git/IDE/缓存/临时文件"
+    }
+  ],
+  "retained_thirdparty": [],
+  "archive_variants": [
+    {
+      "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v1.1.0.zip",
+      "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\InstantItemPickup\\versions\\datapacks\\current\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v1.1.0",
+      "sha256": "0fa398cb8a6bf1833933556a3e44ad2d237ddff586b3c5fedcc24b54eebf5c85",
+      "extracted_files": 3,
+      "excluded_entries": [],
+      "status": "extracted-source-variant"
+    },
+    {
+      "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v应该是睡醒了.zip",
+      "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\InstantItemPickup\\versions\\datapacks\\current\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v应该是睡醒了",
+      "sha256": "2c45184143dac6ee6e3b0b8c6431762f93c6bfa527276717086153ca5259fca8",
+      "extracted_files": 3,
+      "excluded_entries": [],
+      "status": "extracted-source-variant"
+    },
+    {
+      "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v现在真的睡醒了.zip",
+      "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\InstantItemPickup\\versions\\datapacks\\current\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v现在真的睡醒了",
+      "sha256": "623344ae143a1f509aa56e68403c6228b71af25779d4cb43f930092bb8c6cbcd",
+      "extracted_files": 3,
+      "excluded_entries": [],
+      "status": "extracted-source-variant"
+    }
+  ],
+  "source_mapping": [
+    {
+      "source": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1",
+      "stage_relative": "datapacks\\current\\掉落物秒吸-1.20.1"
+    }
+  ],
+  "file_count": 18
+}
