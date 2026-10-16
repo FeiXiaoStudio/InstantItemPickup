@@ -1,0 +1,85 @@
+{
+  "name": "InstantItemPickup",
+  "ref": "mc/1.20.1",
+  "kind": "branch",
+  "base_commit": "8c5e556a92317b8f3dc197b39db9ed14bfdf39df",
+  "default_version_branch": "mc/1.20.1",
+  "branches": [
+    "mc/1.20.1"
+  ],
+  "snapshots": [
+    "snapshot/pack-001",
+    "snapshot/pack-002",
+    "snapshot/pack-003"
+  ],
+  "mappings": [
+    {
+      "source_prefix": "datapacks/current/掉落物秒吸-1.20.1/data/feixiaostudio/functions/load.mcfunction",
+      "target_prefix": "data/feixiaostudio/functions/load.mcfunction"
+    },
+    {
+      "source_prefix": "datapacks/current/掉落物秒吸-1.20.1/data/feixiaostudio/functions/tick.mcfunction",
+      "target_prefix": "data/feixiaostudio/functions/tick.mcfunction"
+    },
+    {
+      "source_prefix": "datapacks/current/掉落物秒吸-1.20.1/data/minecraft/tags/functions/load.json",
+      "target_prefix": "data/minecraft/tags/functions/load.json"
+    },
+    {
+      "source_prefix": "datapacks/current/掉落物秒吸-1.20.1/data/minecraft/tags/functions/tick.json",
+      "target_prefix": "data/minecraft/tags/functions/tick.json"
+    },
+    {
+      "source_prefix": "datapacks/current/掉落物秒吸-1.20.1/pack.mcmeta",
+      "target_prefix": "pack.mcmeta"
+    },
+    {
+      "source_prefix": ".gitignore",
+      "target_prefix": ".gitignore"
+    },
+    {
+      "source_prefix": "LICENSE",
+      "target_prefix": "LICENSE"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "README.md"
+    },
+    {
+      "source_prefix": "SOURCE_MAP.json",
+      "target_prefix": "SOURCE_MAP.json"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "docs/original-layout/README.md"
+    }
+  ],
+  "metadata": {
+    "name": "mc/1.20.1",
+    "pack_metadata": [
+      {
+        "source_prefix": "datapacks/current/掉落物秒吸-1.20.1",
+        "pack_type": "datapack",
+        "raw": {
+          "pack_format": 15
+        }
+      }
+    ],
+    "exact_mc_support_verified": false,
+    "target_evidence": "Original source directory or snapshot label plus distinct metadata",
+    "format_evidence": {
+      "previous_name": "mc/1.20.1",
+      "recommended_name": "mc/1.20.1",
+      "mappings": [
+        {
+          "source_prefix": "datapacks/current/掉落物秒吸-1.20.1",
+          "target_prefix": "."
+        }
+      ],
+      "reason": "Retain explicit original source-directory or archive target; compatible support beyond that target is not tested."
+    },
+    "group": "packs",
+    "old_name": "mc/1.20.1"
+  },
+  "collision_preservation": []
+}
