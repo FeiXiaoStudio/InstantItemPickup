@@ -1,0 +1,69 @@
+{
+  "name": "InstantItemPickup",
+  "ref": "snapshot/pack-003",
+  "kind": "tag",
+  "base_commit": "8c5e556a92317b8f3dc197b39db9ed14bfdf39df",
+  "default_version_branch": "mc/1.20.1",
+  "branches": [
+    "mc/1.20.1"
+  ],
+  "snapshots": [
+    "snapshot/pack-001",
+    "snapshot/pack-002",
+    "snapshot/pack-003"
+  ],
+  "mappings": [
+    {
+      "source_prefix": "versions/datapacks/current/掉落物秒吸-1.20.1/掉落物秒吸-1.20.1-v现在真的睡醒了/data/feixiaostudio/functions/tick.mcfunction",
+      "target_prefix": "data/feixiaostudio/functions/tick.mcfunction"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/掉落物秒吸-1.20.1/掉落物秒吸-1.20.1-v现在真的睡醒了/data/minecraft/tags/functions/tick.json",
+      "target_prefix": "data/minecraft/tags/functions/tick.json"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/掉落物秒吸-1.20.1/掉落物秒吸-1.20.1-v现在真的睡醒了/pack.mcmeta",
+      "target_prefix": "pack.mcmeta"
+    },
+    {
+      "source_prefix": ".gitignore",
+      "target_prefix": ".gitignore"
+    },
+    {
+      "source_prefix": "LICENSE",
+      "target_prefix": "LICENSE"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "README.md"
+    },
+    {
+      "source_prefix": "SOURCE_MAP.json",
+      "target_prefix": "SOURCE_MAP.json"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "docs/original-layout/README.md"
+    }
+  ],
+  "metadata": {
+    "name": "snapshot/pack-003",
+    "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\掉落物秒吸-1.20.1\\掉落物秒吸-1.20.1-v现在真的睡醒了.zip",
+    "source_archive_sha256": "623344ae143a1f509aa56e68403c6228b71af25779d4cb43f930092bb8c6cbcd",
+    "source_prefix": "versions/datapacks/current/掉落物秒吸-1.20.1/掉落物秒吸-1.20.1-v现在真的睡醒了",
+    "source_exists": true,
+    "pack_roots": [
+      "versions/datapacks/current/掉落物秒吸-1.20.1/掉落物秒吸-1.20.1-v现在真的睡醒了"
+    ],
+    "metadata": [
+      {
+        "pack_format": 15
+      }
+    ],
+    "identical_current_pack_roots": [],
+    "classification": "same-mc-release-or-functional-snapshot",
+    "mc_branch": null,
+    "group": "packs"
+  },
+  "collision_preservation": []
+}
